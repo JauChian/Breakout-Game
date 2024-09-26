@@ -1,0 +1,40 @@
+C:\_P\Teaching\UniTec\2021\Sem2\GUI\S2_2021\Assessments\Assignment2\Assignment2Prj\Assignment2Prj\bin\Debug\Assignment2Prj.exe.config
+C:\_P\Teaching\UniTec\2021\Sem2\GUI\S2_2021\Assessments\Assignment2\Assignment2Prj\Assignment2Prj\bin\Debug\Assignment2Prj.exe
+C:\_P\Teaching\UniTec\2021\Sem2\GUI\S2_2021\Assessments\Assignment2\Assignment2Prj\Assignment2Prj\bin\Debug\Assignment2Prj.pdb
+C:\_P\Teaching\UniTec\2021\Sem2\GUI\S2_2021\Assessments\Assignment2\Assignment2Prj\Assignment2Prj\obj\Debug\Assignment2Prj.csprojAssemblyReference.cache
+C:\_P\Teaching\UniTec\2021\Sem2\GUI\S2_2021\Assessments\Assignment2\Assignment2Prj\Assignment2Prj\obj\Debug\Assignment2Prj.Game.resources
+C:\_P\Teaching\UniTec\2021\Sem2\GUI\S2_2021\Assessments\Assignment2\Assignment2Prj\Assignment2Prj\obj\Debug\Assignment2Prj.Properties.Resources.resources
+C:\_P\Teaching\UniTec\2021\Sem2\GUI\S2_2021\Assessments\Assignment2\Assignment2Prj\Assignment2Prj\obj\Debug\Assignment2Prj.csproj.GenerateResource.cache
+C:\_P\Teaching\UniTec\2021\Sem2\GUI\S2_2021\Assessments\Assignment2\Assignment2Prj\Assignment2Prj\obj\Debug\Assignment2Prj.csproj.CoreCompileInputs.cache
+C:\_P\Teaching\UniTec\2021\Sem2\GUI\S2_2021\Assessments\Assignment2\Assignment2Prj\Assignment2Prj\obj\Debug\Assignment2Prj.exe
+C:\_P\Teaching\UniTec\2021\Sem2\GUI\S2_2021\Assessments\Assignment2\Assignment2Prj\Assignment2Prj\obj\Debug\Assignment2Prj.pdb
+C:\Users\User\Desktop\6421 GUI\C#\Assignment2Test - Copy\Assignment2Prj\bin\Debug\Assignment2Prj.exe.config
+C:\Users\User\Desktop\6421 GUI\C#\Assignment2Test - Copy\Assignment2Prj\bin\Debug\Assignment2Prj.exe
+C:\Users\User\Desktop\6421 GUI\C#\Assignment2Test - Copy\Assignment2Prj\bin\Debug\Assignment2Prj.pdb
+C:\Users\User\Desktop\6421 GUI\C#\Assignment2Test - Copy\Assignment2Prj\obj\Debug\Assignment2Prj.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\6421 GUI\C#\Assignment2Test - Copy\Assignment2Prj\obj\Debug\Assignment2Prj.Game.resources
+C:\Users\User\Desktop\6421 GUI\C#\Assignment2Test - Copy\Assignment2Prj\obj\Debug\Assignment2Prj.Properties.Resources.resources
+C:\Users\User\Desktop\6421 GUI\C#\Assignment2Test - Copy\Assignment2Prj\obj\Debug\Assignment2Prj.csproj.GenerateResource.cache
+C:\Users\User\Desktop\6421 GUI\C#\Assignment2Test - Copy\Assignment2Prj\obj\Debug\Assignment2Prj.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\6421 GUI\C#\Assignment2Test - Copy\Assignment2Prj\obj\Debug\Assignment2Prj.exe
+C:\Users\User\Desktop\6421 GUI\C#\Assignment2Test - Copy\Assignment2Prj\obj\Debug\Assignment2Prj.pdb
+C:\Users\User\Desktop\6421 GUI\C#\Assignment2Test - Copy\Assignment2Prj\obj\Debug\Assignment2Prj.Welcome.resources
+C:\Users\User\Desktop\6421 GUI\C#\Assignment2Test - Copy\Assignment2Prj\obj\Debug\Assignment2Prj.EndGame.resources
+C:\Users\User\Desktop\6421 GUI\C#\Assignment2Test - Copy\Assignment2Prj\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\Desktop\6421 GUI\C#\Assignment2Test - Copy\Assignment2Prj\bin\Debug\System.Drawing.Common.xml
+C:\Users\User\Desktop\6421 GUI\C#\Assignment2Test - Copy\Assignment2Prj\obj\Debug\Assignment2Prj.csproj.CopyComplete
+C:\Users\User\Desktop\Assignment2_1564921_JauChian Pan\Assignment2Prj\bin\Debug\Assignment2Prj.exe.config
+C:\Users\User\Desktop\Assignment2_1564921_JauChian Pan\Assignment2Prj\bin\Debug\Assignment2Prj.exe
+C:\Users\User\Desktop\Assignment2_1564921_JauChian Pan\Assignment2Prj\bin\Debug\Assignment2Prj.pdb
+C:\Users\User\Desktop\Assignment2_1564921_JauChian Pan\Assignment2Prj\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\Desktop\Assignment2_1564921_JauChian Pan\Assignment2Prj\bin\Debug\System.Drawing.Common.xml
+C:\Users\User\Desktop\Assignment2_1564921_JauChian Pan\Assignment2Prj\obj\Debug\Assignment2Prj.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Assignment2_1564921_JauChian Pan\Assignment2Prj\obj\Debug\Assignment2Prj.EndGame.resources
+C:\Users\User\Desktop\Assignment2_1564921_JauChian Pan\Assignment2Prj\obj\Debug\Assignment2Prj.Game.resources
+C:\Users\User\Desktop\Assignment2_1564921_JauChian Pan\Assignment2Prj\obj\Debug\Assignment2Prj.Properties.Resources.resources
+C:\Users\User\Desktop\Assignment2_1564921_JauChian Pan\Assignment2Prj\obj\Debug\Assignment2Prj.Welcome.resources
+C:\Users\User\Desktop\Assignment2_1564921_JauChian Pan\Assignment2Prj\obj\Debug\Assignment2Prj.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Assignment2_1564921_JauChian Pan\Assignment2Prj\obj\Debug\Assignment2Prj.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Assignment2_1564921_JauChian Pan\Assignment2Prj\obj\Debug\Assignment2Prj.csproj.CopyComplete
+C:\Users\User\Desktop\Assignment2_1564921_JauChian Pan\Assignment2Prj\obj\Debug\Assignment2Prj.exe
+C:\Users\User\Desktop\Assignment2_1564921_JauChian Pan\Assignment2Prj\obj\Debug\Assignment2Prj.pdb
